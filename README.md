@@ -1,1 +1,1 @@
-# olfactometer
+# Computer Controlled Olfactometer
