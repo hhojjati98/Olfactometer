@@ -1,4 +1,4 @@
-# Computer Controlled Olfactometer
+# About the code
 
 sketch_jul15a.ino is a sample program file. It contains 120 Trials of which 30 are odd (25%)\
 By defult, The stimulus lasts for 2 seconds followed by a 8 second rest period. (No odor) You can change these durations by changing N and Rest variables respectively\
