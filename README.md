@@ -2,4 +2,4 @@
 
 Supplementary Materials for olfactometer
 
-![alt text](https://pasteboard.co/IpuO9Olr.png)
+![alt text](https://img.techpowerup.org/190724/drawing4.png)
